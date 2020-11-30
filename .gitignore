@@ -1,6 +1,7 @@
 # Atari 2600 (Stella) support for multiple assemblers
 # - DASM
 # - CC65
+# - MacOS
 
 # Assembled binaries and object directories
 obj/
